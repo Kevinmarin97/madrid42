@@ -1,0 +1,5 @@
+Credentials cache: API:5835
+        Principal: kmarin-m@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug  2 17:55:47 2021  Aug  3 03:55:39 2021  krbtgt/42MADRID.COM@42MADRID.COM
